@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#a4473d"/>
+  <g fill="#f5f2ea" font-family="DejaVu Sans, sans-serif">
+    <text x="70" y="80" font-size="18" letter-spacing="3">PERSONAL BRAND / INSTAGRAM</text>
+    <text x="70" y="264" font-size="94" letter-spacing="-4">Упаковка</text>
+    <text x="70" y="386" font-size="94" letter-spacing="-4">профиля.</text>
+    <text x="70" y="530" font-size="32">Контент-воронка</text>
+    <text x="70" y="615" font-size="32">Путь до заявки</text>
+    <text x="70" y="778" font-size="26">Несколько новых клиентов</text>
+    <text x="70" y="820" font-size="26">за первые недели</text>
+    <text x="1060" y="820" font-size="22">03</text>
+  </g>
+  <path d="M70 117h1060M70 705h1060" stroke="#d69c8f"/>
+  <g stroke="#f5f2ea" fill="none" stroke-width="2">
+    <path d="M951 476h120m-18-18 18 18-18 18M951 561h120m-18-18 18 18-18 18"/>
+    <path d="M895 217h167v167M895 384l167-167" stroke-width="3"/>
+  </g>
+</svg>
